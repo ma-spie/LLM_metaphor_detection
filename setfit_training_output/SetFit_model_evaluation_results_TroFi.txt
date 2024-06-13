@@ -1,0 +1,4 @@
+Model: TroFi_best_model_SetFit
+Evaluation Results: {'accuracy': 0.665742024965326, 'precision': 0.6147308781869688, 'recall': 0.6739130434782609, 'f1': 0.642962962962963}
+Emissions as CO2-equivalents [CO2eq] in kg for training this model: 0.7704291161175701
+

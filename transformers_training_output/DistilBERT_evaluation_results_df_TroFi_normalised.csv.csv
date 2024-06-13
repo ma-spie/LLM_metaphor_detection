@@ -1,0 +1,10 @@
+,TroFi_normalised.csv
+eval_loss,0.5914846062660217
+eval_accuracy,0.6907073509015257
+eval_f1,0.6201022146507666
+eval_precision,0.6867924528301886
+eval_recall,0.5652173913043478
+eval_runtime,5.7238
+eval_samples_per_second,125.966
+eval_steps_per_second,4.018
+epoch,5.0

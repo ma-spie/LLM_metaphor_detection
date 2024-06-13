@@ -1,0 +1,12 @@
+Model: PoFo_normalised.csv
+Evaluation Results: {'eval_loss': 0.6295524835586548, 'eval_accuracy': 0.6756756756756757, 'eval_f1': 0.6666666666666666, 'eval_precision': 0.6545454545454545, 'eval_recall': 0.6792452830188679, 'eval_runtime': 4.8401, 'eval_samples_per_second': 22.933, 'eval_steps_per_second': 1.446, 'epoch': 5.0}
+Emissions as CO2-equivalents [CO2eq] in kg for training this model: 0.0014897441342962663
+
+Model: PoFo_normalised.csv
+Evaluation Results: {'eval_loss': 0.6382787823677063, 'eval_accuracy': 0.6216216216216216, 'eval_f1': 0.676923076923077, 'eval_precision': 0.5714285714285714, 'eval_recall': 0.8301886792452831, 'eval_runtime': 5.2085, 'eval_samples_per_second': 21.311, 'eval_steps_per_second': 0.768, 'epoch': 5.0}
+Emissions as CO2-equivalents [CO2eq] in kg for training this model: 0.0016643842501396417
+
+Model: PoFo_normalised.csv
+Evaluation Results: {'eval_loss': 0.6489366888999939, 'eval_accuracy': 0.6486486486486487, 'eval_f1': 0.688, 'eval_precision': 0.5972222222222222, 'eval_recall': 0.8113207547169812, 'eval_runtime': 6.5954, 'eval_samples_per_second': 16.83, 'eval_steps_per_second': 0.606, 'epoch': 5.0}
+Emissions as CO2-equivalents [CO2eq] in kg for training this model: 0.0013816308201039678
+

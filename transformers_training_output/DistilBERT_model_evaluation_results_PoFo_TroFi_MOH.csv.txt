@@ -1,0 +1,4 @@
+Model: PoFo_TroFi_MOH.csv
+Evaluation Results: {'eval_loss': 0.6070635914802551, 'eval_accuracy': 0.6875, 'eval_f1': 0.6314496314496314, 'eval_precision': 0.6908602150537635, 'eval_recall': 0.581447963800905, 'eval_runtime': 5.5868, 'eval_samples_per_second': 171.834, 'eval_steps_per_second': 5.37, 'epoch': 5.0}
+Emissions as CO2-equivalents [CO2eq] in kg for training this model: 0.0035116309184925524
+

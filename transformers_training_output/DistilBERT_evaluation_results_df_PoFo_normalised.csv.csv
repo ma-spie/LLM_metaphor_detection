@@ -1,0 +1,10 @@
+,PoFo_normalised.csv
+eval_loss,0.6489366888999939
+eval_accuracy,0.6486486486486487
+eval_f1,0.688
+eval_precision,0.5972222222222222
+eval_recall,0.8113207547169812
+eval_runtime,6.5954
+eval_samples_per_second,16.83
+eval_steps_per_second,0.606
+epoch,5.0

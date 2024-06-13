@@ -1,0 +1,4 @@
+Model: MOH-X_normalised.csv
+Evaluation Results: {'eval_loss': 0.49150317907333374, 'eval_accuracy': 0.7751937984496124, 'eval_f1': 0.7851851851851852, 'eval_precision': 0.803030303030303, 'eval_recall': 0.7681159420289855, 'eval_runtime': 5.4883, 'eval_samples_per_second': 23.505, 'eval_steps_per_second': 0.911, 'epoch': 5.0}
+Emissions as CO2-equivalents [CO2eq] in kg for training this model: 0.0014721186923761533
+

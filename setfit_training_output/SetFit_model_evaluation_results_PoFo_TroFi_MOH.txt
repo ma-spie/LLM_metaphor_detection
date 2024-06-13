@@ -1,0 +1,4 @@
+Model: PoFo_TroFi_MOH_best_model_SetFit
+Evaluation Results: {'accuracy': 0.8770833333333333, 'precision': 0.8894230769230769, 'recall': 0.8371040723981901, 'f1': 0.8624708624708625}
+Emissions as CO2-equivalents [CO2eq] in kg for training this model: 1.3402467884240712
+

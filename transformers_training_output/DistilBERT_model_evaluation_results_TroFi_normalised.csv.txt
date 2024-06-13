@@ -1,0 +1,12 @@
+Model: TroFi_normalised.csv
+Evaluation Results: {'eval_loss': 0.5891709327697754, 'eval_accuracy': 0.6907073509015257, 'eval_f1': 0.6067019400352733, 'eval_precision': 0.7020408163265306, 'eval_recall': 0.5341614906832298, 'eval_runtime': 5.385, 'eval_samples_per_second': 133.891, 'eval_steps_per_second': 4.271, 'epoch': 5.0}
+Emissions as CO2-equivalents [CO2eq] in kg for training this model: 0.0030664944136322534
+
+Model: TroFi_normalised.csv
+Evaluation Results: {'eval_loss': 0.6042836904525757, 'eval_accuracy': 0.6920943134535368, 'eval_f1': 0.6498422712933754, 'eval_precision': 0.6602564102564102, 'eval_recall': 0.639751552795031, 'eval_runtime': 5.6743, 'eval_samples_per_second': 127.063, 'eval_steps_per_second': 2.115, 'epoch': 5.0}
+Emissions as CO2-equivalents [CO2eq] in kg for training this model: 0.002931574080037464
+
+Model: TroFi_normalised.csv
+Evaluation Results: {'eval_loss': 0.5914846062660217, 'eval_accuracy': 0.6907073509015257, 'eval_f1': 0.6201022146507666, 'eval_precision': 0.6867924528301886, 'eval_recall': 0.5652173913043478, 'eval_runtime': 5.7238, 'eval_samples_per_second': 125.966, 'eval_steps_per_second': 4.018, 'epoch': 5.0}
+Emissions as CO2-equivalents [CO2eq] in kg for training this model: 0.002873104610685966
+
