@@ -13,8 +13,18 @@ The datasets for this project can either be found in the folder [raw_datasets](r
 2. [TroFi dataset](https://github.com/YU-NLPLab/DeepMet/blob/master/data/TroFi/TroFi_formatted_all3737.csv) by Birke and Sarkar.
 3. [MOH dataset](https://github.com/YU-NLPLab/DeepMet/blob/master/data/MOH-X/MOH-X_formatted_svo_cleaned.csv) by Mohammad et al.
 
-## code
+## Code
 The [code](code/) folder contains notebooks for preprocessing, fine-tuning Transformers and SetFit and evaluation. The notebooks provide detailed explanations and instructions on the inputs and outputs for this project.
 
-## fine-tuned models
+## Fine-tuned models
 The resulting fine-tuned models are publicly available on [Zenodo](https://doi.org/10.5281/zenodo.11624278).
+
+## References
+Birke, Julia, and Anoop Sarkar. "A clustering approach for nearly unsupervised recognition of
+nonliteral language." 11th Conference of the European chapter of the association for computational linguistics, 2006, p. 329-336, [aclanthology.org/E06-1042](htpps:/aclanthology.org/E06-1042).
+
+
+Kesarwani, Vaibhav, et al. “Metaphor Detection in a Poetry Corpus.” Proceedings of the Joint SIGHUM Workshop on Computational Linguistics for Cultural Heritage, Social Sciences, Humanities and Literature, edited by Beatrice Alex et al. Association for Computational Linguistics, 2017, pp. 1–9, [https://doi.org/10.18653/v1/W17-2201](https://doi.org/10.18653/v1/W17-2201]).
+
+
+Mohammad, Saif, et al. “Metaphor as a Medium for Emotion: An Empirical Study.” Proceedings of the Fifth Joint Conference on Lexical and Computational Semantics, 2016, pp. 23–33, [https://doi.org/10.18653/v1/S16-2003](https://doi.org/10.18653/v1/S16-2003).
