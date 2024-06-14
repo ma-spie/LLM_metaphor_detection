@@ -21,7 +21,7 @@ The resulting fine-tuned models are publicly available on [Zenodo](https://doi.o
 
 ## References
 Birke, Julia, and Anoop Sarkar. "A clustering approach for nearly unsupervised recognition of
-nonliteral language." 11th Conference of the European chapter of the association for computational linguistics, 2006, p. 329-336, [aclanthology.org/E06-1042](htpps:/aclanthology.org/E06-1042).
+nonliteral language." 11th Conference of the European chapter of the association for computational linguistics, 2006, p. 329-336, [aclanthology.org/E06-1042](https://aclanthology.org/E06-1042/).
 
 
 Kesarwani, Vaibhav, et al. “Metaphor Detection in a Poetry Corpus.” Proceedings of the Joint SIGHUM Workshop on Computational Linguistics for Cultural Heritage, Social Sciences, Humanities and Literature, edited by Beatrice Alex et al. Association for Computational Linguistics, 2017, pp. 1–9, [https://doi.org/10.18653/v1/W17-2201](https://doi.org/10.18653/v1/W17-2201]).
