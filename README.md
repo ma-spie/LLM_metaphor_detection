@@ -1,6 +1,8 @@
 #  LLM_metaphor_detection
 This repository contains the materials for the paper ["Literary Metaphor Detection with LLM Fine-Tuning and Few-Shot Learning"](/Literary_Metaphor_Detection_Spielberg.pdf). 
 
+An [abstract](https://zenodo.org/records/14943240) of this paper was published as part of the "DHd 2025 - Under Construction" conference.
+
 ## Project description
 
 The paper explores the task of metaphor detection using Large Language Models (LLMs) from a Digital Humanities perspective, focusing on the detection of literary metaphors.
